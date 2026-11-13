@@ -11,7 +11,7 @@ La classe `MachineACafe` traduit les commandes clients en messages pour la machi
 ## Installation
 
 ```powershell
-git clone []
+git clone [https://github.com/Adoucyrille/machinecaf.git]
 cd coffe_machine
 python -m venv .venv
 .venv\Scripts\Activate.ps1
